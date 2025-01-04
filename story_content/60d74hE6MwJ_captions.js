@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.93.33359.0%0D%0A%0D%0A00:00:00.288%20--%3E%2000:00:02.116%0D%0AProper%20ventilation%20is%20essential,%0D%0A%0D%0A00:00:02.353%20--%3E%2000:00:04.972%0D%0Amake%20it%20a%20habit%20to%20open%20windows%20indoors.%0D%0A%0D%0A"}')
